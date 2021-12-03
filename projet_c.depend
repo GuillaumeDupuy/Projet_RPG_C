@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1580393613 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1580397513 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\start.c
+	<stdio.h>
+	<stdlib.h>
+
+1580402654 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1580402635 c:\users\ynov\documents\cours_ynov\c\cours\projet_c\header.h
+
+1580399609 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\visual_change.c
+	<stdio.h>
+	<stdlib.h>
+
+1580402902 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\about.c
+	<stdio.h>
+	<stdlib.h>
+
+1583836358 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\main.c
+	"header.h"
+
+1583876102 c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\header.h
+	"map.h"
+	"perso_stats_h.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1583887053 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\menu.c
+	"header.h"
+
+1583887053 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\start.c
+	"header.h"
+
+1583888967 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\visual_change.c
+	"header.h"
+
+1583849185 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\about.c
+	"header.h"
+
+1583887053 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\new_game.c
+	"header.h"
+
+1583627115 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\test_list_chaine.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+	<windows.h>
+
+1580714778 c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\test_list_chaine.h
+
+1582120229 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\test_perso_stats.c
+	<stdio.h>
+	<stdlib.h>
+	"test_perso_stats.h"
+	<string.h>
+
+1582119942 c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\test_perso_stats.h
+
+1583881230 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\perso_stats.c
+	"header.h"
+
+1583856699 c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\perso_stats_h.h
+
+1582286188 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\monstropedie.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"perso_stats_h.h"
+
+1583854326 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\monstropedie_init.c
+	"header.h"
+
+1583887053 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\monstropedie_update.c
+	"header.h"
+
+1583836358 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\monstropedie_use.c
+	"header.h"
+
+1583887053 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\map_and_more.c
+	"header.h"
+
+1583880202 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\moove.c
+	"header.h"
+
+1583930280 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\in_game.c
+	"header.h"
+
+1583532147 c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\map.h
+
+1583890615 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\show_map.c
+	"header.h"
+
+1583930123 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\combat.c
+	"header.h"
+
+1583836358 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\test_color.c
+	"header.h"
+
+1583762123 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\ft_itoa.c
+	<stdio.h>
+	<stdlib.h>
+
+1583773109 source:c:\users\ynov\documents\cours_ynov\c\cours\projet_c\projet\competence.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\about.c
+	"header.h"
+
+1583883902 c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\header.h
+	"map.h"
+	"perso_stats_h.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1583883902 c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\map.h
+
+1583883902 c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\perso_stats_h.h
+
+1583884539 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\combat.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\competence.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\main.c
+	"header.h"
+
+1583884169 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\map_and_more.c
+	"header.h"
+
+1583884637 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\menu.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\monstropedie_init.c
+	"header.h"
+
+1583884206 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\monstropedie_update.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\monstropedie_use.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\moove.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\perso_stats.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\show_map.c
+	"header.h"
+
+1583886702 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\start.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\test_color.c
+	"header.h"
+
+1583883902 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\visual_change.c
+	"header.h"
+
+1583884201 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\new_game.c
+	"header.h"
+
+1583884195 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\in_game.c
+	"header.h"
+
+1583884993 source:c:\users\guill\onedrive\documents\ynov\c\projet_c\projet\load_save_game.c
+
